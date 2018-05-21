@@ -4,7 +4,7 @@
  ##安装
 
 ```
-npm i -g anydoor
+npm i -g wanganydoor
 ```
  ##使用方法
 
