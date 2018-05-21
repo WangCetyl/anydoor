@@ -1,0 +1,28 @@
+{
+  "name": "wanganydoor",
+  "version": "0.0.1",
+  "description": "\"tiny nodejs web server\"",
+  "main": "src/app.js",
+  "bin": {
+    "anydoor": "bin/anydoor"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WangCetyl/anydoor.git"
+  },
+  "keywords": [
+    "[\"static\"",
+    "\"webserver\"]"
+  ],
+  "author": "Lewis Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WangCetyl/anydoor/issues"
+  },
+  "homepage": "https://github.com/WangCetyl/anydoor#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "yargs": "^11.0.0"
+  }
+}
